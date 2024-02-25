@@ -14,7 +14,7 @@ Showcasing Pandas, Python, KMeans, PCA, and StandardScaler, the challenge gather
         ├───helpers
         │       k_means_helpers.py
         │       pca_helpers.py
-        └───resources
+        └───Resources
                 crypto_market_data.csv
 
 Step 1:
